@@ -1,0 +1,13 @@
+# environments
+.venv
+.venv310
+venv/
+
+#VSCode
+.vsode
+
+# Notebook Checkpoints
+.ipynb_checkpoints
+
+# Byte-Compiled 
+__pycache__/

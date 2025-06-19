@@ -1,0 +1,59 @@
+
+B
+"
+item_id"item_idJintense_iguana
+ÓÌğ¾Ğñ‘¡õ½Ù¿°¨¶Æ
+D
+%
+__dummy"
+__dummy_idJintense_iguana
+íËğ¾˜Œ1õ½Ù¿Ğ¯¾Æ
+H
+)
+__dummy"
+__dummy_idJintense_iguana_edb
+ç—Ú¿ÈßˆøÓ€Ş¿èÚ®
+H
+(
+__dummy"
+__dummy_idJdelicate_seasnail
+ìÈä¿ÈÔ‚—âää¿ˆè¯ñ1"$07642e5c-b1d0-4304-9707-3f9cc1221616*âää¿ğ×·ñ2ó
+Ó
+item_embeddingintense_iguanaitem_id"
+	embedding(2cosine2€£:wevent_timestampZdata/doc_embed.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢document_embeddings@J€	Šfeast.data_source.PushSource¢item_embed_push_sourceÒCevent_timestampZdata/doc_embed.parquet¢document_embeddingsb
+item_id
+íËğ¾À‚³I‡Îğ¾ğ‘¤Š2
+ü
+item_embedding_edbintense_iguanaitem_id"
+	embedding(2cosine2€£:‡event_timestampZ$"data/pushed_item_embedding.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢document_embeddings_edb@J”	Šfeast.data_source.PushSource¢item_embed_push_source_edbÒSevent_timestampZ$"data/pushed_item_embedding.parquet¢document_embeddings_edbb
+item_id
+‡¤Ù¿ˆúİ³‡¤Ù¿ˆúİ³2®
+
+item_embedding_edbintense_iguana_edbitem_id"
+	embedding(2cosine"
+item_id2€£:‡event_timestampZ$"data/pushed_item_embedding.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢document_embeddings_edb@J”	Šfeast.data_source.PushSource¢item_embed_push_source_edbÒSevent_timestampZ$"data/pushed_item_embedding.parquet¢document_embeddings_edbb
+item_id
+è—Ú¿ĞËöÉè—Ú¿ĞËöÉ2±
+
+item_embedding_edb2delicate_seasnailitem_id"
+	embedding(2cosine"
+item_id2€¯:ˆevent_timestampZ$"data/pushed_item_embedding.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢document_embeddings_edb2@J–	Šfeast.data_source.PushSource¢item_embed_push_source_edb2ÒTevent_timestampZ$"data/pushed_item_embedding.parquet¢document_embeddings_edb2b
+item_id
+ìÈä¿€¡˜˜ìÈä¿€¡˜˜bˆevent_timestampZdata/doc_embed.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢document_embeddingsªintense_iguanab‘	Šfeast.data_source.PushSource¢item_embed_push_sourceªintense_iguanaÒCevent_timestampZdata/doc_embed.parquet¢document_embeddingsb©	Šfeast.data_source.PushSource¢item_embed_push_source_edbªintense_iguana_edbÒSevent_timestampZ$"data/pushed_item_embedding.parquet¢document_embeddings_edbbœevent_timestampZ$"data/pushed_item_embedding.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢document_embeddings_edbªintense_iguana_edbbª	Šfeast.data_source.PushSource¢item_embed_push_source_edb2ªdelicate_seasnailÒTevent_timestampZ$"data/pushed_item_embedding.parquet¢document_embeddings_edb2bœevent_timestampZ$"data/pushed_item_embedding.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢document_embeddings_edb2ªdelicate_seasnailz:
+intense_iguana_edb$b8153546-0a86-4ea3-80b5-540ac97a4788z9
+delicate_seasnail$03f5f239-d2ec-4b79-80a2-d285faf9fb84ŠS
+3
+intense_iguana!A project for documents retrieval
+ìËğ¾È”“ÍÕ½Ù¿Øî°ÂŠ4
+
+intense_iguana_edb
+ç—Ú¿à¼‘øç—Ú¿à¼‘øŠX
+8
+EDB_project)A project for documents retrieval for EDB
+‡¤Ù¿àãÙ²¿€Ş¿’åßŠ3
+
+delicate_seasnail
+ìÈä¿–—ìÈä¿–—ŠZ
+;
+EDB_projectify)A project for documents retrieval for EDB
+Êä¿àªû­âää¿˜Š‡O
